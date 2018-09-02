@@ -1,4 +1,4 @@
-// Pathtracer 'Monsoon' by Anand Hotwani 2018.
+// Pathtracer 'Diya' by Anand Hotwani 2018.
 //
 //	Created for educational purposes. Based on structures of PBRT, Scratchapixel & Ray-Tracing In One Weekend
 //
@@ -9,7 +9,7 @@
 //	>> cmake ..
 //	>> make
 //
-//	>> ./monsoon [samples]
+//	>> ./diya [samples]
 //
 
 #include <stdio.h>
