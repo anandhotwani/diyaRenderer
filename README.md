@@ -1,5 +1,5 @@
 # Diya Renderer
-A personal uni-directional path-tracer project. "Diya" is a small Indian oil lamp. 
+A personal uni-directional path-tracer project. "Diya" is named after the small oil lamps found in India.
 
 This path-tracer is based on examples from Scratchapixel, Ray-Tracing in One Weekend and PBRT and is still work-in-progress.
 
